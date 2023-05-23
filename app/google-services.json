@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219270315198",
+    "project_id": "ing-software-fedf6",
+    "storage_bucket": "ing-software-fedf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219270315198:android:c7d4fbec45cc0eb81572ef",
+        "android_client_info": {
+          "package_name": "com.agora.samtan.agorabroadcast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219270315198-jmv89lq9v40dm2mn1ia1qq9h7vg1mghi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtRz2eDdcI0pUklMd81KEKo0HKp9vKIwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219270315198-jmv89lq9v40dm2mn1ia1qq9h7vg1mghi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
